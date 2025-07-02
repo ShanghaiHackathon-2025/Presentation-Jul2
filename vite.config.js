@@ -1,11 +1,5 @@
-// vite.config.js
-import { defineConfig } from 'vite';
-
 export default defineConfig({
-    server: {
-        host: '0.0.0.0',
-        port: 3030,
-        strictPort: true,
-        allowedHosts: true
-    }
+    build: {
+        assetsDir: 'assets', // Ensures assets are copied to dist/assets
+    },
 });
