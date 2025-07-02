@@ -1,11 +1,4 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Presentation slide
+> for a hackathon on Chinese adolescents' mental health.
 
-To start the slide show:
-
-- `pnpm install`
-- `pnpm dev`
-- visit <http://localhost:3030>
-
-Edit the [slides.md](./slides.md) to see the changes.
-
-Learn more about Slidev at the [documentation](https://sli.dev/).
+Covers basic usage of generative LLM - aided research, design, and presentation in social / global problems. Based off the Design Thinking framework
