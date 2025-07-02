@@ -4,7 +4,7 @@ lang: zh-CN
 title: 应对无声的挣扎：中国中学生心理健康与未满足的需求
 date: 2025年7月3日/4日
 layout: intro-image
-image: '/resources/bg.png'
+image: '/assets/bg.png'
 ---
 
 
