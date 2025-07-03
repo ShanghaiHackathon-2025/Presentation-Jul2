@@ -16,6 +16,10 @@ image: 'assets/bg.png'
 </div>
 
 <div class="absolute top-10">
+	<span class="font-300" style="color: #000;">
+		陈熙妍 / 李辰笑 / 邓子翔 / 袁嘉慧
+	</span>
+	<br>
 	<span class="font-700" style="color: #000;">
 		2025超脑黑客松线上共学 · 汇报项目
 	</span>
